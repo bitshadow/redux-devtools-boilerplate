@@ -1,0 +1,28 @@
+{
+  "name": "redux-devtools-boilerplate",
+  "version": "1.0.0",
+  "description": "Simplest boilerplate for redux with devtools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "homepage": "https://github.com/bitshadow/redux-devtools-boilerplate#readme",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-redux": "^0.8.2",
+    "redux": "^1.0.1",
+    "redux-thunk": "^0.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.22",
+    "babel-eslint": "^4.0.10",
+    "babel-loader": "^5.3.2",
+    "jsx-loader": "^0.13.2",
+    "react-hot-loader": "^1.2.8",
+    "redux-devtools": "^1.0.2",
+    "webpack": "^1.11.0",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "author": "Jignesh Kakadiya <jigneshhk1992@gmail.com> (http://bitshadow.wordpress.com/)",
+  "license": "MIT"
+}
