@@ -8,6 +8,7 @@ How to use:
 ```
 $ git clone https://github.com/bitshadow/redux-devtools-boilerplate.git
 $ cd redux-devtools-boilerplate
+$ npm install
 $ node server.js
 ```
 
